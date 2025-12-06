@@ -9,7 +9,7 @@
 
 ## 💻 About Me
 - 🔭 Creator of **[Botanix](https://github.com/Doyimmi1/Botanix)** – a professional Discord bot  
-- 🌱 Learning **Node.js, MongoDB, Discord.js v14, APIs, and advanced bot development**  
+- 🌱 Learning **Node.js, MongoDB, Discord.js v14, APIs, and automation**  
 - 👯 Open to collaborate on **creative and challenging projects**  
 - 💬 Ask me about **programming, bots, or tech**  
 - ⚡ Fun fact: I love making my bots **ultra personalized, intelligent, and stylish**  
@@ -36,11 +36,12 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Doyimmi1&show_icons=true&theme=radical&count_private=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doyimmi1&layout=compact&theme=radical" width="49%"/>
-</p>
+## 📊 Skill Progress
+- Node.js ▮▮▮▮▮▮▮▮▮▮ 90%  
+- Discord.js ▮▮▮▮▮▮▮▮▮▯ 85%  
+- MongoDB ▮▮▮▮▮▮▮▮▯▯ 75%  
+- JavaScript ▮▮▮▮▮▮▮▮▮▮ 95%  
+- HTML/CSS ▮▮▮▮▮▮▮▯▯▯ 70%  
 
 ---
 
